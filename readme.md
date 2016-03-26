@@ -2,4 +2,4 @@
 
 <img src="screenshot.png" alt="The Lisa Lionheart Emulator" />
 
-A <a href="https://github.com/goldfire/howler.js" width="400px" height="auto">Howler JS</a> experiment. 
+A <a href="https://github.com/goldfire/howler.js" >Howler JS</a> experiment. 
